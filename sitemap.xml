@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<url>
+	<loc>http://rolgame.ru/</loc>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://rolgame.ru/index.html</loc>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://rolgame.ru/играть.html</loc>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://rolgame.ru/скачать.html</loc>
+	<priority>1.0</priority>
+</url>
+</urlset>
